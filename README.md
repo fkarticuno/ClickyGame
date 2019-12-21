@@ -8,4 +8,4 @@ This game randomly places 4 images and asks the player to click a circle if one 
 *CSS
 *JavaScript
 
-![Image description]('./photo.png')
+![Image description]('photo.png')

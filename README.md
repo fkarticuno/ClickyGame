@@ -8,4 +8,4 @@ This game randomly places 4 images and asks the player to click a circle if one 
 * CSS
 * JavaScript
 
-![Image description]('https://fkarticuno.github.io/ClickyGame/photo.png')
+![]('https://fkarticuno.github.io/ClickyGame/photo.png')

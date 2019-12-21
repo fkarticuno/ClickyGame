@@ -2,10 +2,10 @@
 
 This game randomly places 4 images and asks the player to click a circle if one exists or to click no if no circle exists.
 
-#Technologies Leveraged
+# Technologies Leveraged
 
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
-![Image description]('photo.png')
+![Image description]('https://github.com/fkarticuno/ClickyGame/blob/master/photo.png?raw=true')
